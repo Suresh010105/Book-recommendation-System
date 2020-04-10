@@ -1,14 +1,3 @@
-Columbia University E4571 Personalization: Theory & Application
-
-Team 16 Project Part 1 - Fundamentals
-
-Software Package Requirement:
-
-Please download all of our files from our github: 
-
-https://github.com/Kewei-Liu/E4571_Personalization_Project-Part_I
-
-We use python 2.7 for this project. 
 
 The packages we used include:
 
